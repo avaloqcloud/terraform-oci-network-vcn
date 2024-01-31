@@ -7,7 +7,7 @@ The code provides a reusable and standalone Terraform module that provisions a V
 {
   "vcn": {
     "compartment_id": "ocid1.compartment_id",
-    "display_name": "subnet_1",
+    "display_name": "vcn_1",
     "cidr_blocks": [
       "172.16.0.0/16"
     ],
